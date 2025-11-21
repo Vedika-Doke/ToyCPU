@@ -1,0 +1,39 @@
+delete wave *
+
+add wave -noupdate -divider "System"
+add wave -noupdate -label "Clock" /cpu_tb/clock
+add wave -noupdate -label "Reset" /cpu_tb/reset
+
+add wave -noupdate -divider "Execution"
+
+add wave -noupdate -radix unsigned -label "PC" /cpu_tb/uut/read_select
+
+add wave -noupdate -radix hex -label "Instruction" /cpu_tb/uut/instruction
+
+add wave -noupdate -divider "Flags"
+add wave -noupdate -label "Zero (Z)" /cpu_tb/uut/f/zf
+add wave -noupdate -label "Negative (N)" /cpu_tb/uut/f/nf
+add wave -noupdate -label "Carry (C)" /cpu_tb/uut/f/cf
+add wave -noupdate -label "Overflow (O)" /cpu_tb/uut/f/off
+
+
+add wave -noupdate -divider "Registers"
+
+add wave -noupdate -radix decimal -label "Reg A" /cpu_tb/uut/rf/Registers(0)
+add wave -noupdate -radix decimal -label "Reg B" /cpu_tb/uut/rf/Registers(1)
+add wave -noupdate -radix decimal -label "Reg C" /cpu_tb/uut/rf/Registers(2)
+add wave -noupdate -radix decimal -label "Reg D" /cpu_tb/uut/rf/Registers(3)
+
+add wave -noupdate -divider "Data Memory"
+add wave -noupdate -radix decimal -label "Mem(0)" {/cpu_tb/uut/dm/ram(0)}
+add wave -noupdate -radix decimal -label "Mem(1)" {/cpu_tb/uut/dm/ram(1)}
+add wave -noupdate -radix decimal -label "Mem(2)" {/cpu_tb/uut/dm/ram(2)}
+add wave -noupdate -radix decimal -label "Mem(3)" {/cpu_tb/uut/dm/ram(3)}
+add wave -noupdate -radix decimal -label "Mem(4)" {/cpu_tb/uut/dm/ram(4)}
+add wave -noupdate -radix decimal -label "Mem(5)" {/cpu_tb/uut/dm/ram(5)}
+add wave -noupdate -radix decimal -label "Mem(6)" {/cpu_tb/uut/dm/ram(6)}
+add wave -noupdate -radix decimal -label "Mem(7)" {/cpu_tb/uut/dm/ram(7)}
+
+restart -f
+run 5000 ns
+wave zoom full
