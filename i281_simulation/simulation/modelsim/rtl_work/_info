@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dY:/Documents/GitHub/ToyCPU/i281_simulation/simulation/modelsim
 v\16Wide4To1BusMux 
-Z1 !s110 1763542077
+Z1 !s110 1776184987
 !i10b 1
 !s100 C<cAjAa3eDh2d>:GL2ncT2
 IK=D:fEAALe]UjVfA98U;R3
@@ -23,7 +23,7 @@ Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1763542077.000000
+Z5 !s108 1776184987.000000
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/16Wide4To1BusMux.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/16Wide4To1BusMux.v|
 !i113 1
@@ -32,7 +32,7 @@ Z7 !s92 -vlog01compat -work work +incdir+Y:/Documents/GitHub/ToyCPU/i281_simulat
 Z8 tCvgOpt 0
 n@13416@wide4@to1@bus@mux@040
 v\1to2DecoderWithEnable 
-Z9 !s110 1763542078
+R1
 !i10b 1
 !s100 P8RaY4]]PT^>1i:9IzMiI1
 IaZloVJ;AdhR`@az9W_>2R0
@@ -46,7 +46,7 @@ R4
 r1
 !s85 0
 31
-Z10 !s108 1763542078.000000
+R5
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/1to2DecoderWithEnable.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/1to2DecoderWithEnable.v|
 !i113 1
@@ -55,7 +55,7 @@ R7
 R8
 n@1341to2@decoder@with@enable@040
 v\2BitDecoderWithEnable 
-R9
+R1
 !i10b 1
 !s100 QLQLXjC1k`Tzjbf7WVAMd1
 IgbI>:JD2zEIZD<7cRQk@O1
@@ -69,7 +69,7 @@ R4
 r1
 !s85 0
 31
-R10
+R5
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/2BitDecoderWithEnable.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/2BitDecoderWithEnable.v|
 !i113 1
@@ -78,7 +78,7 @@ R7
 R8
 n@1342@bit@decoder@with@enable@040
 v\2to4DecoderWithEnable 
-R9
+R1
 !i10b 1
 !s100 <DLT2g5:Q:8oWG66`FcIE3
 IfQ0cL58K_PWVQDdN02@8V2
@@ -92,7 +92,7 @@ R4
 r1
 !s85 0
 31
-R10
+R5
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/2to4DecoderWithEnable.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/2to4DecoderWithEnable.v|
 !i113 1
@@ -101,7 +101,7 @@ R7
 R8
 n@1342to4@decoder@with@enable@040
 v\4WideBusMux 
-R9
+R1
 !i10b 1
 !s100 Wa2l<JOIUkEY8nbd@D6>L3
 IREL?0^1FX31>J?nOEcSU:1
@@ -115,7 +115,7 @@ R4
 r1
 !s85 0
 31
-R10
+R5
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/4WideBusMux.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/4WideBusMux.v|
 !i113 1
@@ -124,7 +124,7 @@ R7
 R8
 n@1344@wide@bus@mux@040
 v\4to16DecoderWithEnable 
-R9
+R1
 !i10b 1
 !s100 ]I_I0QgjTz5m[6jNL49aD3
 IZD=0L`LhAmZVcklo?0Uoe2
@@ -138,7 +138,7 @@ R4
 r1
 !s85 0
 31
-R10
+R5
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/4to16DecoderWithEnable.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/4to16DecoderWithEnable.v|
 !i113 1
@@ -147,7 +147,7 @@ R7
 R8
 n@1344to16@decoder@with@enable@040
 v\4x8BitRegisters 
-R9
+R1
 !i10b 1
 !s100 44>HCSOQE1UYH?G=AJEzf2
 IDI03_9<YlPT0YYgO81=@30
@@ -170,7 +170,7 @@ R7
 R8
 n@1344x8@bit@registers@040
 v\6WideBusMux 
-Z11 !s110 1763542082
+Z9 !s110 1776184990
 !i10b 1
 !s100 HjzIVdDPl`OB7KS:TNZVn2
 IKzKHW50mi;gkmKK6b8<:81
@@ -184,7 +184,7 @@ R4
 r1
 !s85 0
 31
-Z12 !s108 1763542082.000000
+Z10 !s108 1776184990.000000
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/6WideBusMux.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/6WideBusMux.v|
 !i113 1
@@ -193,7 +193,7 @@ R7
 R8
 n@1346@wide@bus@mux@040
 v\6bitAdder 
-Z13 !s110 1763542081
+Z11 !s110 1776184989
 !i10b 1
 !s100 j=h4Cd[kTYBNRXYTe[eHE3
 I8oFcLFKT4j^W>W0[BYdz[3
@@ -207,7 +207,7 @@ R4
 r1
 !s85 0
 31
-Z14 !s108 1763542081.000000
+Z12 !s108 1776184989.000000
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/6bitAdder.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/6bitAdder.v|
 !i113 1
@@ -216,7 +216,7 @@ R7
 R8
 n@1346bit@adder@040
 v\7WidWideBusMux 
-R11
+R9
 !i10b 1
 !s100 nR7MO0b[f5HF7kmNgoW8c0
 IfX2f3l?:WDOYe5eXDZTP:2
@@ -230,7 +230,7 @@ R4
 r1
 !s85 0
 31
-R12
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/7WidWideBusMux.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/7WidWideBusMux.v|
 !i113 1
@@ -239,7 +239,7 @@ R7
 R8
 n@1347@wid@wide@bus@mux@040
 v\8WidWideBusMux 
-R11
+R9
 !i10b 1
 !s100 8m03_I@Jo:CI<4TTjU;U[2
 IZO`iC[CLcLaNHUX1h0lhd3
@@ -253,7 +253,7 @@ R4
 r1
 !s85 0
 31
-R12
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/8WidWideBusMux.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/8WidWideBusMux.v|
 !i113 1
@@ -262,7 +262,7 @@ R7
 R8
 n@1348@wid@wide@bus@mux@040
 v\8bitAdder 
-Z15 !s110 1763542083
+Z13 !s110 1776184991
 !i10b 1
 !s100 FS0dH@km^i7PeUffUhRYI0
 IfmF36WClO;KZE3_lXZge33
@@ -276,7 +276,7 @@ R4
 r1
 !s85 0
 31
-Z16 !s108 1763542083.000000
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/8bitAdder.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/8bitAdder.v|
 !i113 1
@@ -285,7 +285,7 @@ R7
 R8
 n@1348bit@adder@040
 v\8wide16to1BusMUX 
-R15
+R9
 !i10b 1
 !s100 lfIc[:N7T:GjKIfC[@<bV2
 IKN7B@`DYU0c0kFGhjDPF43
@@ -299,7 +299,7 @@ R4
 r1
 !s85 0
 31
-R16
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/8wide16to1BusMUX.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/8wide16to1BusMUX.v|
 !i113 1
@@ -308,7 +308,7 @@ R7
 R8
 n@1348wide16to1@bus@m@u@x@040
 v\8wide4to1BusMUX 
-R15
+R13
 !i10b 1
 !s100 TXH^C?6TZ=K=ZBWcDdoI_1
 IEb5RMiP532VFRQ:AWanDF0
@@ -322,7 +322,7 @@ R4
 r1
 !s85 0
 31
-R16
+Z14 !s108 1776184991.000000
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/8wide4to1BusMUX.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/8wide4to1BusMUX.v|
 !i113 1
@@ -331,7 +331,7 @@ R7
 R8
 n@1348wide4to1@bus@m@u@x@040
 vALU
-R11
+R9
 !i10b 1
 !s100 LUNK>fe>]`7^^RcYbn<NG2
 IRe5<YjJASo2iPWc5Y^iHS0
@@ -345,7 +345,7 @@ R4
 r1
 !s85 0
 31
-R12
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/ALU.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/ALU.v|
 !i113 1
@@ -354,7 +354,7 @@ R7
 R8
 n@a@l@u
 vALU_Flag_Calculator
-R11
+R9
 !i10b 1
 !s100 _fhGVWWC3UeDT]zjb1XLf3
 IEYZXD9Vf;<n<M0]2TRS``3
@@ -368,7 +368,7 @@ R4
 r1
 !s85 0
 31
-R12
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/ALU_Flag_Calculator.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/ALU_Flag_Calculator.v|
 !i113 1
@@ -377,13 +377,13 @@ R7
 R8
 n@a@l@u_@flag_@calculator
 vBIOS_Hardcoded_High
-R1
+Z15 !s110 1776184986
 !i10b 1
 !s100 QGd6fi`nb2SGOPYJK>be^3
 Ig`=B=j=4jP3LSG>hiD1Kj0
 R2
 R0
-Z17 w1763471296
+Z16 w1763471296
 8Y:/Documents/GitHub/ToyCPU/i281_simulation/BIOS_Hardcoded_High.v
 FY:/Documents/GitHub/ToyCPU/i281_simulation/BIOS_Hardcoded_High.v
 L0 1
@@ -391,7 +391,7 @@ R4
 r1
 !s85 0
 31
-R5
+Z17 !s108 1776184986.000000
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/BIOS_Hardcoded_High.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/BIOS_Hardcoded_High.v|
 !i113 1
@@ -400,13 +400,13 @@ R7
 R8
 n@b@i@o@s_@hardcoded_@high
 vBIOS_Hardcoded_Low
-R1
+R15
 !i10b 1
 !s100 ZaVH7DMzlTji;modm_jU30
 ImKVEUWB4[_1[bRNHV_A>d0
 R2
 R0
-R17
+R16
 8Y:/Documents/GitHub/ToyCPU/i281_simulation/BIOS_Hardcoded_Low.v
 FY:/Documents/GitHub/ToyCPU/i281_simulation/BIOS_Hardcoded_Low.v
 L0 1
@@ -414,7 +414,7 @@ R4
 r1
 !s85 0
 31
-Z18 !s108 1763542076.000000
+R17
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/BIOS_Hardcoded_Low.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/BIOS_Hardcoded_Low.v|
 !i113 1
@@ -423,7 +423,7 @@ R7
 R8
 n@b@i@o@s_@hardcoded_@low
 vBlock3
-R11
+R9
 !i10b 1
 !s100 U;0^Pn^8QdPKY^>BZm2<V2
 IBlXFB9V?jUKVf9:7LS<C52
@@ -437,7 +437,7 @@ R4
 r1
 !s85 0
 31
-R12
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Block3.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Block3.v|
 !i113 1
@@ -446,7 +446,7 @@ R7
 R8
 n@block3
 vBusNot
-R13
+R9
 !i10b 1
 !s100 a[o[^Oz7=Hm7`7H1eRRE[0
 I15NOk41EhZghASl_XVZTm0
@@ -460,7 +460,7 @@ R4
 r1
 !s85 0
 31
-R14
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/BusNot.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/BusNot.v|
 !i113 1
@@ -469,7 +469,7 @@ R7
 R8
 n@bus@not
 vC16to1BusMUX
-R13
+R11
 !i10b 1
 !s100 <a^`TY`5gW:jQ0X3[19SA3
 I4^dJJl>N:5GQfT?@;a[eb3
@@ -483,7 +483,7 @@ R4
 r1
 !s85 0
 31
-R14
+R12
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/C16to1BusMUX.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/C16to1BusMUX.v|
 !i113 1
@@ -492,7 +492,7 @@ R7
 R8
 n@c16to1@bus@m@u@x
 vClock_divider_4_16_and_64
-R13
+R11
 !i10b 1
 !s100 FPzMakKPm?`Il[gEl]E1Z0
 Ig>@hgT;T49^N2JmFKI4fL3
@@ -506,7 +506,7 @@ R4
 r1
 !s85 0
 31
-R14
+R12
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Clock_divider_4_16_and_64.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Clock_divider_4_16_and_64.v|
 !i113 1
@@ -515,7 +515,7 @@ R7
 R8
 n@clock_divider_4_16_and_64
 vClock_divider_512
-R13
+R11
 !i10b 1
 !s100 aGd<W^e6_`G:`SEkMiGcd3
 Ik2e;Xfk?:Xe?H;M`EZFOE1
@@ -529,7 +529,7 @@ R4
 r1
 !s85 0
 31
-R14
+R12
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Clock_divider_512.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Clock_divider_512.v|
 !i113 1
@@ -538,7 +538,7 @@ R7
 R8
 n@clock_divider_512
 vClock_dividers
-R13
+R11
 !i10b 1
 !s100 Z1_06a45EU0Td88^d7cmE1
 I?zl9nbXLDhS1?3<Hjz0KV3
@@ -552,7 +552,7 @@ R4
 r1
 !s85 0
 31
-R14
+R12
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Clock_dividers.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Clock_dividers.v|
 !i113 1
@@ -561,7 +561,7 @@ R7
 R8
 n@clock_dividers
 vControl_FSM
-R15
+R13
 !i10b 1
 !s100 c01;hVOE7<k@3En94lF_B1
 I2GA4YYO5H6emg_PAJ[k=`3
@@ -575,7 +575,7 @@ R4
 r1
 !s85 0
 31
-R16
+R14
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Control_FSM.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Control_FSM.v|
 !i113 1
@@ -584,7 +584,7 @@ R7
 R8
 n@control_@f@s@m
 vDMEM
-R13
+R11
 !i10b 1
 !s100 ;Um73>T`L]K@:HaBT7?[73
 I@1XQBzGd0mg1nj_KoF7Q62
@@ -598,7 +598,7 @@ R4
 r1
 !s85 0
 31
-Z19 !s108 1763542080.000000
+R12
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/DMEM.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/DMEM.v|
 !i113 1
@@ -607,7 +607,7 @@ R7
 R8
 n@d@m@e@m
 vFlag_Registers
-Z20 !s110 1763542080
+R11
 !i10b 1
 !s100 KE`WIYSo`_oL?NmVSQ_n91
 I6o=n0f3Y8:O?7]D9[8@B02
@@ -621,7 +621,7 @@ R4
 r1
 !s85 0
 31
-R19
+R12
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Flag_Registers.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Flag_Registers.v|
 !i113 1
@@ -630,7 +630,7 @@ R7
 R8
 n@flag_@registers
 vFullAdder
-R20
+R11
 !i10b 1
 !s100 >mjZik^[fNR<Y0]0mFalK2
 InPZUXBMX6KS8YZGCm>z>e1
@@ -644,7 +644,7 @@ R4
 r1
 !s85 0
 31
-R19
+R12
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/FullAdder.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/FullAdder.v|
 !i113 1
@@ -653,7 +653,7 @@ R7
 R8
 n@full@adder
 vi281_CPU
-Z21 !s110 1763542084
+R13
 !i10b 1
 !s100 MAmcB0<hZE]VBQ6aC1_Oc2
 I4eGVaYncW@IUf^5nemjk00
@@ -667,7 +667,7 @@ R4
 r1
 !s85 0
 31
-R16
+R14
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/i281_CPU.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/i281_CPU.v|
 !i113 1
@@ -676,7 +676,7 @@ R7
 R8
 ni281_@c@p@u
 vi281_cpu_tb
-R21
+R13
 !i10b 1
 !s100 g4E5zChhW5`oGXh67PCfZ0
 Io]l`F2bN?5dWfEF]EQJ163
@@ -690,7 +690,7 @@ R4
 r1
 !s85 0
 31
-!s108 1763542084.000000
+R14
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/i281_cpu_tb.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/i281_cpu_tb.v|
 !i113 1
@@ -698,7 +698,7 @@ R6
 R7
 R8
 vIMEM
-R20
+R11
 !i10b 1
 !s100 dTdb@5DF2bEFm3z:_5jIb2
 INz_V0k8fhnd>RP39gUmfn3
@@ -712,7 +712,7 @@ R4
 r1
 !s85 0
 31
-R19
+R12
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/IMEM.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/IMEM.v|
 !i113 1
@@ -721,7 +721,7 @@ R7
 R8
 n@i@m@e@m
 vIMEM_high
-R20
+Z18 !s110 1776184988
 !i10b 1
 !s100 BXE:0cC7R9Dno>mmk=Wa_2
 IQbX2^]m0@1M?UP2HY]XXb3
@@ -735,7 +735,7 @@ R4
 r1
 !s85 0
 31
-R19
+Z19 !s108 1776184988.000000
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/IMEM_high.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/IMEM_high.v|
 !i113 1
@@ -744,7 +744,7 @@ R7
 R8
 n@i@m@e@m_high
 vIMEM_low
-R20
+R18
 !i10b 1
 !s100 cV<aU^:BIF;b@^@HD>OD71
 I<d?R>kijLB^i2;YZ[VYdB0
@@ -767,13 +767,13 @@ R7
 R8
 n@i@m@e@m_low
 vONES
-Z22 !s110 1763542076
+R15
 !i10b 1
 !s100 aoaX8zEDA@Nj1Ynl9nCY=3
 IA]2jZ25D:5DNXS`HkoVdg0
 R2
 R0
-R17
+R16
 8Y:/Documents/GitHub/ToyCPU/i281_simulation/ONES.v
 FY:/Documents/GitHub/ToyCPU/i281_simulation/ONES.v
 L0 1
@@ -781,7 +781,7 @@ R4
 r1
 !s85 0
 31
-R18
+R17
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/ONES.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/ONES.v|
 !i113 1
@@ -790,7 +790,7 @@ R7
 R8
 n@o@n@e@s
 vOpcode_Decoder
-R20
+R18
 !i10b 1
 !s100 R:Bkf6mkH5T_]S<4IMUZ[0
 I?_2XLL`KA:IjKhe5NPY9V2
@@ -804,7 +804,7 @@ R4
 r1
 !s85 0
 31
-Z23 !s108 1763542079.000000
+R19
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Opcode_Decoder.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Opcode_Decoder.v|
 !i113 1
@@ -813,7 +813,7 @@ R7
 R8
 n@opcode_@decoder
 vProgramCounter
-Z24 !s110 1763542079
+R18
 !i10b 1
 !s100 MjII<dG`46V;k1]nZPiz13
 IO7Q0fFmbo4KD4_MUl4Qlf3
@@ -827,7 +827,7 @@ R4
 r1
 !s85 0
 31
-R23
+R19
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/ProgramCounter.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/ProgramCounter.v|
 !i113 1
@@ -836,7 +836,7 @@ R7
 R8
 n@program@counter
 vReadOnly_16x16_Register_File_High
-R24
+R18
 !i10b 1
 !s100 O5:9nKgHSX]O2mUeL2ADQ2
 Ijk0<[=Wl6OhKQCf?ZNBWk3
@@ -850,7 +850,7 @@ R4
 r1
 !s85 0
 31
-R23
+R19
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/ReadOnly_16x16_Register_File_High.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/ReadOnly_16x16_Register_File_High.v|
 !i113 1
@@ -859,7 +859,7 @@ R7
 R8
 n@read@only_16x16_@register_@file_@high
 vReadOnly_16x16_Register_File_Low
-R24
+R18
 !i10b 1
 !s100 >`<825BNcgJb_jT<O7[cV0
 Idi3DLcoZ=YZ6SDT54Q0k70
@@ -873,7 +873,7 @@ R4
 r1
 !s85 0
 31
-R23
+R19
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/ReadOnly_16x16_Register_File_Low.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/ReadOnly_16x16_Register_File_Low.v|
 !i113 1
@@ -882,7 +882,7 @@ R7
 R8
 n@read@only_16x16_@register_@file_@low
 vRegisters16bit
-R24
+R18
 !i10b 1
 !s100 YES_D1XIXWc8;oATC]Rd=3
 Ia5VESiEaJFAPhKBW9UNQL2
@@ -896,7 +896,7 @@ R4
 r1
 !s85 0
 31
-R23
+R19
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Registers16bit.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Registers16bit.v|
 !i113 1
@@ -905,7 +905,7 @@ R7
 R8
 n@registers16bit
 vRegisters8bit
-R24
+R18
 !i10b 1
 !s100 F2XS_QLfhOiP>T?o32RHD2
 I1@lkGb3[E0ID:MY7R]JED2
@@ -919,7 +919,7 @@ R4
 r1
 !s85 0
 31
-R23
+R19
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Registers8bit.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Registers8bit.v|
 !i113 1
@@ -928,13 +928,13 @@ R7
 R8
 n@registers8bit
 vseven_seg_decoder_BUSOUT
-R22
+R15
 !i10b 1
 !s100 Tj6Uz=9^CNQ5W_kh3=FO31
 I7F<[c`1VoPfXUkn`m2m3[1
 R2
 R0
-R17
+R16
 8Y:/Documents/GitHub/ToyCPU/i281_simulation/seven_seg_decoder_BUSOUT.v
 FY:/Documents/GitHub/ToyCPU/i281_simulation/seven_seg_decoder_BUSOUT.v
 L0 1
@@ -942,7 +942,7 @@ R4
 r1
 !s85 0
 31
-R18
+R17
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/seven_seg_decoder_BUSOUT.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/seven_seg_decoder_BUSOUT.v|
 !i113 1
@@ -951,7 +951,7 @@ R7
 R8
 nseven_seg_decoder_@b@u@s@o@u@t
 vShiftNoDff
-R24
+R18
 !i10b 1
 !s100 lale=CBOXlJgJePDC3PoE0
 I1lnB3zKo2>1aV:fFZ2RRe2
@@ -965,7 +965,7 @@ R4
 r1
 !s85 0
 31
-R23
+R19
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/ShiftNoDff.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/ShiftNoDff.v|
 !i113 1
@@ -974,7 +974,7 @@ R7
 R8
 n@shift@no@dff
 vSixteenWideBusMux
-R9
+R18
 !i10b 1
 !s100 >GZ37XU>9=1:JJfe8XBd<0
 Ii;BAPmfPiBeE<2h;QC3;52
@@ -988,7 +988,7 @@ R4
 r1
 !s85 0
 31
-R10
+R5
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/SixteenWideBusMux.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/SixteenWideBusMux.v|
 !i113 1
@@ -1003,7 +1003,7 @@ R1
 ICbTc[Zg_PWB3lg:674OVS3
 R2
 R0
-Z25 w1763524957
+Z20 w1763524957
 8Y:/Documents/GitHub/ToyCPU/i281_simulation/User_Code_High.v
 FY:/Documents/GitHub/ToyCPU/i281_simulation/User_Code_High.v
 L0 1
@@ -1026,7 +1026,7 @@ R1
 Ibl<VdV[IA2NVmo7aYWb`L1
 R2
 R0
-R25
+R20
 8Y:/Documents/GitHub/ToyCPU/i281_simulation/User_Code_Low.v
 FY:/Documents/GitHub/ToyCPU/i281_simulation/User_Code_Low.v
 L0 1
@@ -1034,7 +1034,7 @@ R4
 r1
 !s85 0
 31
-R5
+R17
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/User_Code_Low.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/User_Code_Low.v|
 !i113 1
@@ -1043,13 +1043,13 @@ R7
 R8
 n@user_@code_@low
 vUser_Data
-R1
+R15
 !i10b 1
 !s100 gM`M>Ui[nblEDYE1Pc8261
 I>Emhh^CVeWdU^[Me1FkGX2
 R2
 R0
-R25
+R20
 8Y:/Documents/GitHub/ToyCPU/i281_simulation/User_Data.v
 FY:/Documents/GitHub/ToyCPU/i281_simulation/User_Data.v
 L0 1
@@ -1057,7 +1057,7 @@ R4
 r1
 !s85 0
 31
-R5
+R17
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/User_Data.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/User_Data.v|
 !i113 1
@@ -1066,7 +1066,7 @@ R7
 R8
 n@user_@data
 vVideo_Card
-R15
+R9
 !i10b 1
 !s100 h9n5S15Q>SdfR1@0Y]9_[0
 Ie1h2]<]:Pdfjj5RGU8d@i0
@@ -1080,7 +1080,7 @@ R4
 r1
 !s85 0
 31
-R12
+R10
 !s107 Y:/Documents/GitHub/ToyCPU/i281_simulation/Video_Card.v|
 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+Y:/Documents/GitHub/ToyCPU/i281_simulation|Y:/Documents/GitHub/ToyCPU/i281_simulation/Video_Card.v|
 !i113 1
